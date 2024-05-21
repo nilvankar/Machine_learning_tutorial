@@ -1,0 +1,302 @@
+Sr.,Name of the patient,Age,Gender,Total billirubin ,Direct billirubin,Indirect billirubin,S.G.O.T. (AST),S.G.P.T.(ALT),Alkaline phosphatase,Type of jaundice
+1,Tanvi S.,25,F,0.55,0.20,0.50,15,14,88,Negative 
+2,Bhrahmagma M.,39,M,0.65,0.20,0.45,12,11,104,Negative
+3,Jigar sharma,30,M,0.48,0.17,0.31,21,23,77,Negative
+4,Prakashbhai B.,30,M,0.42,0.18,0.24,19,25,56,Negative
+5,Vijay swami,51,F,0.33,0.12,0.21,24,41,91,Negative
+6,Joseph macwan,71,M,0.91,0.40,0.51,15,11,61,Negative
+7,Nitesh upadhyay,30,M,1.29,0.39,0.90,17,26,46,Pre - hepatic
+8,Shivani thakor,34,F,0.27,0.12,0.15,16,18,142,Post - hepatic 
+9,Ramila J desai,65,F,0.43,0.28,0.15,20,27,66,Negative
+10,DR. B B gosai,56,M,0.46,0.35,0.11,24,9,95,Negative
+11,Andre gomes,61,M,0.24,0.12,0.12,27,20,66,Negative
+12,Lina mathwes,54,F,0.48,0.24,0.24,29,48,69,Negative
+13,Benny Mathwes,59,M,0.39,0.20,0.19,36,57,113,Negative
+14,Nikunj patel,27,M,1.67,0.57,1.10,14,12,98,Negative
+15,Gaurav seju,46,M,0.42,0.23,0.19,27,21,100,Negative
+16,Dhavalkumar V.,35,M,0.23,0.16,0.07,25,20,81,Negative
+17,Shriti mishra,51,M,0.63,0.29,0.34,17,21,48,Negative
+18,Cavatina patel,60,F,0.39,0.17,0.22,15,19,109,Post - hepatic 
+19,Alimmudin shaikh,28,M,0.60,0.17,0.43,15,16,113,Negative
+20,Anil joshi,51,M,0.87,0.40,0.47,19,25,230,Post - hepatic 
+21,Mahek vaniya,16,F,7.60,7.25,0.35,1237,2368,120,Hepatic 
+22,Amee Vaniya,35,F,0.29,23,1.2,29,38,82,Hepatic 
+23,Kamlesh gandhi,55,M,0.56,0.19,0.37,13,8,53,Negative
+24,Smt. Sudha,64,F,0.36,12,0.17,19,33,106,Post - hepatic 
+25,Snehansu nath,33,M,1.07,0.41,0.66,15,17,254,Post - hepatic 
+26,Dineshbhai V.,57,M,0.57,0.23,0.34,14,19,101,Negative
+27,Alinda mairom,29,F,0.18,43,43,40,43,47,Hepatic 
+28,Manoj mishra,59,M,0.52,0.17,0.35,13,34,46,Negative
+29,DR. B B gosai,56,M,0.61,21,0.23,25,8,115,Post - hepatic 
+30,Gurvindar singh ,40,M,0.52,0.31,0.21,30,45,38,Negative
+31,Jaita P sharma ,48,F,0.48,0.21,0.27,35,32,77,Negative
+32,Kamalnayan bhatt,46,M,0.61,24,36,70,72,85,Hepatic 
+32,Vijay anand,52,M,0.59,0.18,0.41,18,16,68,Negative
+33,DR. ashok j patel,55,M,0.42,0.02,0.40,21,17,52,Negative
+34,Mahendrasingh,64,M,0.60,0.29,0.31,15,17,86,Negative
+35,Anandi inamdar,82,F,0.26,0.08,0.18,18,16,79,Negative
+36,Sadik k malek,43,M,0.58,0.21,0.37,20,24,73,Negative
+37,Smt. Sudha,64,F,0.44,12,0.27,20,23,117,Post - hepatic 
+38,Daksha parikh,76,F,0.43,0.30,0.13,73,53,332,Hepatic 
+39,Sunil kumar trivedi,63,M,0.32,0.08,0.24,12,8,85,Negative
+40,Manjunath mirashi,47,M,0.33,0.13,0.20,19,23,127,Negative
+41,Indar mohan gulati,64,M,0.72,0.30,0.42,11,12,85,Negative
+42,Himmanshu bhatt,66,M,0.49,0.20,0.29,15,8,87,Negative
+43,Jashoda M. patel,69,M,0.73,0.20,46,46,25,98,Pre - hepatic
+44,Narmadaben nair,74,F,0.32,0.11,0.21,15,18,85,Negative
+45,Kishor naik,79,M,1.05,0.45,0.60,19,15,154,Post - hepatic 
+46,Sarla patra,80,F,0.32,0.43,0.18,14,13,163,Post - hepatic 
+47,Rajan bhatt,37,M,4.78,2.96,1.82,68,30,229,Post - hepatic 
+48,Sandeep verma,42,M,0.53,0.24,0.29,46,38,79,Negative
+49,Kavitha prasad,50,F,1.45,0.53,0.92,24,22,57,Negative
+50,Bala sharma ,63,F,0.52,0.46,0.35,27,22,123,Post - hepatic 
+51,Chhaya shririao,67,F,0.49,0.56,0.28,17,20,136,Post - hepatic 
+52,Mainak Mur,26,M,0.62,0.19,0.43,22,30,80,Negative
+53,Hashmukh darshi,78,M,1.02,0.40,0.62,32,44,162,Post - hepatic 
+54,Rajaesh patel,62,M,0.46,0.24,0.22,15,16,80,Negative
+55,Girishbhai d patel,73,M,0.95,0.44,0.51,17,17,73,Negative
+56,Janak mishtry,29,M,7.66,6.95,0.71,786,1508,198,Hepatic 
+57,Yashraj mahida,31,M,0.21,0.17,0.25,26,31,93,Negative
+58,Nishit patel,38,M,4.01,3.08,0.93,93,41,584,Post - hepatic 
+59,Kartik D thakre,47,M,0.49,0.46,0.22,23,44,145,Post - hepatic 
+60,DR. ravi koladiya,33,M,0.45,0.19,0.26,21,17,123,Negative
+61,Nitesh upadhyay,30,M,0.99,0.36,0.63,17,15,54,Negative
+62,Dineshchandra ,68,M,0.41,0.20,0.21,13,8,48,Negative
+63,Nirmala joshi,71,F,0.34,0.62,0.21,28,18,126,Post - hepatic 
+64,Tofik H mansuri,37,M,0.37,0.13,0.24,45,68,158,Hepatic 
+65,Aqsa fatima alavi,17,F,0.39,0.14,0.25,14,10,71,Negative
+66,Kalpesh patel,54,M,0.69,0.30,0.39,17,34,86,Negative
+67,Aman jain,27,M,0.92,0.33,0.59,21,31,134,Post - hepatic 
+68,Daksha G ,55,F,0.43,0.63,0.28,23,35,132,Post - hepatic 
+69,K ravishankar,68,M,0.57,0.29,0.28,22,23,74,Negative
+70,Janak mishtry,29,M,3.05,1.09,1.96,80,345,263,Hepatic 
+71,Rajeev patel,62,M,0.39,0.19,0.20,27,20,57,Negative
+72,Rupal vyas,40,F,0.56,0.45,0.30,10,12,114,Post - hepatic 
+73,Bhumika K.,26,F,1.03,0.48,0.55,18,13,72,Negative
+74,Pooja zanje,23,F,0.30,0.13,0.17,25,26,75,Negative
+75,Tushar zanje,23,M,0.41,0.63,0.95,45,95,107,hepatic 
+76,Suparna das,36,F,0.25,0.10,0.15,19,15,72,Negative
+77,Ramesh cristian,50,M,0.56,0.26,0.30,17,19,55,Negative
+78,Hiral A patel,40,F,0.42,0.18,0.24,17,14,98,Negative
+79,Dinesh patel,60,M,0.62,0.30,95,24,18,68,Pre - hepatic
+80,Nrendra parmar,33,M,0.28,0.12,0.16,31,13,109,Negative
+81,Faruk K shikh,40,M,0.41,0.45,0.46,89,63,80,Hepatic 
+82,George Dmello,67,M,0.66,0.31,0.35,19,19,71,Negative
+83,Pratik J chhabaria,35,M,0.52,0.21,0.31,17,21,163,Post - hepatic 
+84,Deblina das,45,F,0.27,0.63,0.17,16,9,124,Post - hepatic 
+85,Vidhata R patel,60,F,0.30,0.10,0.20,19,14,102,Negative
+86,Rajendra J bhatt,59,M,0.88,0.34,0.54,40,46,78,Negative
+87,Pankaj sharma,47,M,1.40,0.12,0.32,31,54,70,Pre - hepatic
+88,Kishor naik,79,M,0.97,0.38,0.59,21,16,64,Negative
+89,Rupesh aswal,32,M,0.80,0.33,0.47,15,19,130,Post - hepatic 
+90,Anupam kar,48,M,0.42,0.21,0.21,21,29,72,Negative
+91,Shadananan V K,60,M,1.29,0.53,0.76,30,42,86,Negative
+92,Jasyshree pohni,62,F,0.55,0.23,0.32,14,21,80,Negative
+93,Harsh taneja ,30,M,3.80,3.50,0.30,169,380,90,Hepatic 
+94,Pawan singh rana,62,M,0.64,0.31,0.33,15,12,155,Post - hepatic 
+95,Madansingh panwar,50,M,0.81,0.41,0.40,45,52,104,Hepatic 
+96,Himendra shah,55,M,0.49,0.22,0.27,14,18,147,Post - hepatic 
+97,Jashoda patel,69,F,1.00,0.74,0.38,35,16,155,Post - hepatic 
+98,Tirth D sheth,24,M,0.31,0.16,0.15,52,52,108,Hepatic 
+99,Gaurav baldwa,31,M,0.74,0.34,0.40,20,10,72,Negative
+100,Ketan H Shah,60,M,0.54,0.31,0.23,27,9,101,Negative
+101,Nitesh chaube,57,M,0.41,0.93,0.63,55,52,99,Hepatic 
+102,Sanjeev mahajan,57,M,1.21,0.47,0.74,17,13,91,Pre - hepatic
+103,Manasvi parmar,11,F,0.19,0.09,0.10,20,9,464,Post - hepatic 
+104,Richa thakkar,30,F,1.46,0.91,0.55,31,15,118,Post - hepatic 
+105,Kancha singh,23,F,0.68,0.60,0.08,97,51,413,Post - hepatic 
+106,Prahant sharma ,31,F,0.76,0.25,0.51,72,130,145,Hepatic 
+107,Rajan bhatt,37,M,3.42,2.27,1.15,59,35,89,Hepatic 
+108,Anjan sinha,41,M,0.92,0.21,0.89,24,31,82,Pre - hepatic
+109,Nanda parmar,89,F,0.34,0.22,0.12,18,10,304,Post - hepatic 
+110,Nirmala S patel,65,F,0.40,0.40,0.21,32,35,155,Post - hepatic 
+111,Sneha agrawal,54,F,0.67,0.40,0.27,47,23,69,Pre - hepatic
+112,Dhaval parikh,43,M,1.26,0.44,0.82,19,19,124,Post - hepatic 
+113,Kanuben rathod,60,F,23,11,12,63,56,89,Hepatic 
+114,Veena jain,60,F,0.16,26,0.04,16,12,126.9,Post - hepatic 
+115,Jadaben harijan,66,F,0.22,0.14,0.08,19,16,141.4,Post - hepatic 
+116,Mayaben pandey,30,F,0.40,0.19,0.21,46,48,388.4,Hepatic 
+117,S. sharbani,31,F,0.25,0.13,0.12,20,27,123.3,Post - hepatic 
+118,Narendrabhai patel,63,M,0.87,0.46,0.41,41,17,96.9,Hepatic 
+119,Priti danak,54,F,0.29,0.15,0.14,49,53,111.7,Hepatic 
+120,Smita k vaghela,58,F,0.33,0.15,0.18,49,45,95.4,Hepatic 
+121,Vimala patel,78,F,0.31,0.14,0.17,19,10,124.9,Post - hepatic 
+122,Hitesh maheshwari,32,M,0.86,0.32,0.54,20,22,68.8,Pre - hepatic
+123,Mukesh gada,66,M,0.24,0.13,0.11,7,8,231.6,Post - hepatic 
+124,Jitendra kalavadia,47,M,0.56,0.39,26,38,31,63.3,Pre - hepatic
+125,Sngha ghosh,22,F,0.70,0.33,12,19,11,55.1,Pre - hepatic
+126,Jaba roy,33,F,1.07,0.36,0.71,33,21,137.9,Post - hepatic 
+127,Dr. bharat shah,55,M,1.88,1.17,0.71,25,14,211.2,Post - hepatic 
+128,S D patel,62,M,0.90,0.46,0.44,15,14,59.1,Pre - hepatic
+129,Dushyantbhai patel,45,M,1.29,0.51,0.78,15,15,89.4,Pre - hepatic
+130,Arvind patel,85,M,1.05,0.43,0.62,18,10,82.3,Pre - hepatic
+131,Samir mahajan,42,M,0.93,0.38,0.55,39,43,143.5,Post - hepatic 
+132,Dinesh chavda,64,M,0.86,0.37,0.49,16,13,89.8,Pre - hepatic
+133,Abhishek patel,29,M,0.58,0.21,0.37,56,85,94.7,Hepatic 
+134,N T Ramchandani,76,M,1.51,0.55,0.96,14,10,124,Post - hepatic 
+135,Ratan makharia,61,M,0.89,0.32,0.57,78,109,85.2,Hepatic 
+136,Hiren patel,42,M,0.65,0.15,0.50,65,67,74.6,Hepatic 
+137,Girish D patel,72,M,0.87,0.34,0.53,20,16,123,Post - hepatic 
+138,Kaumudi patel,51,F,0.40,0.18,0.22,52,57,68.5,Hepatic 
+139,Jitubhai gri,42,M,0.94,0.33,0.61,90,46,113.8,Hepatic 
+140,Vrajesh shah,24,M,1.13,0.43,0.70,31,47,450,Post - hepatic 
+141,Sita devi sharma,46,F,0.71,0.27,0.44,15,20,111.1,Post - hepatic 
+142,Amarjit patil,26,M,0.47,0.17,0.30,89,88,118.2,Hepatic 
+143,Draksha pathan,28,F,0.28,0.12,0.16,19,15,11.4,Post - hepatic 
+144,Namrata saxena,32,F,0.30,0.13,0.17,32,42,107.7,Post - hepatic 
+145,Shobha watekar,29,F,0.49,0.40,0.09,131,141,382.9,Hepatic 
+146,Dhaval padhiyar,43,M,1.26,0.44,0.86,19,25,124,Post - hepatic 
+147,Kanku rathod,60,F,0.15,0.10,0.05,63,56,111.1,Hepatic 
+148,Jtendra joshi,31,M,2.49,0.68,1.81,56,89,89.6,Hepatic 
+149,Gurvindar singh ,40,M,0.34,0.16,0.18,75,93,51.0,Hepatic 
+150,Riya patel,76,M,0.78,0.39,0.45,19,14,145,Post - hepatic 
+151,Rajeshbhai parmar,55,M,2.87,1.72,1.15,96,89,229.6,Hepatic 
+152,Kaushik ramanand,55,M,1.49,1.14,0.35,39,23,249.3,Post - hepatic 
+153,Utkarsh jhohari,36,M,0.59,0.23,0.36,56,53,69.5,Hepatic 
+154,Anwar yusuf ,75,M,0.75,0.31,0.44,15,11,325,Post - hepatic 
+155,Pallavi patel,58,F,0.30,0.11,0.19,47,36,125.3,Hepatic 
+156,Manubhai raja,76,M,0.65,0.33,0.32,44,35,111.9,Post - hepatic 
+157,Vimal kshatriya,33,M,0.71,0.28,0.43,52,92,146.2,Hepatic 
+158,Renu singh,35,F,0.29,0.12,0.17,46,52,169.4,Hepatic 
+159,Jayshree pohnekar,62,F,0.55,0.18,0.37,12,20,138.1,Post - hepatic 
+160,Kartik D thakre,47,M,0.89,0.23,0.38,26,39,139.7,Post - hepatic 
+161,Nirav patel,47,M,4.50,3.12,1.38,132,56,127.3,Hepatic 
+162,Shivang patel,34,M,0.34,0.16,0.18,42,82,87.3,Hepatic 
+163,Urmila ninama,24,F,0.44,0.24,0.20,107,52,95.8,Hepatic 
+164,Anand kumar nath,56,M,1.07,0.39,0.68,46,15,65.8,Negative
+165,Thompson roland,34,M,1.37,0.47,0.90,23,19,84.6,Negative
+166,Mukesh gadia,67,M,0.29,0.12,0.17,9,4,360.8,Post - hepatic 
+167,Yogesh gosavi,50,M,1.13,0.84,0.29,77,65,110.5,Hepatic 
+168,Nirav patel,85,M,2.47,1.40,0.76,72,63,144.9,Hepatic 
+169,Meena M chauhan,60,F,0.88,0.73,0.15,58,59,139.3,Hepatic 
+170,Jagpal rajput,61,M,1.38,0.96,0.42,32,18,300.8,Post - hepatic 
+171,Shanta sheth,76,F,0.03,0.45,0.60,17,13,96.8,negative
+172,Manorama B patel,73,F,0.23,0.03,0.14,17,8,118.9,Post - hepatic 
+173,Anil shsah,62,M,2.58,1.53,1.05,96,63,192.6,Hepatic 
+174,Rashmi chauhan,34,F,0.29,0.15,0.14,24,16,152.2,Post - hepatic 
+175,Pushpa N parmar,57,F,0.65,0.32,0.33,20,6,55.9,negative
+176,Sakina saiyed,58,F,0.43,0.19,0.24,56,48,149.9,Post - hepatic 
+177,Sonal chauhan,34,F,0.22,0.12,0.10,23,19,108.1,Post - hepatic 
+178,Nikshit patel,38,M,7.47,6.73,0.74,62,55,408.0,Hepatic 
+179,Chanda H limbachia,60,F,1.55,0.64,0.91,60,36,137.3,Hepatic 
+180,Satyaprakash yadav,25,M,0.60,0.21,0.39,60,55,94.0,Hepatic 
+181,Rakhi Sharma,28,F,0.39,0.16,0.23,29,28,113.5,Post - hepatic 
+182,Ashutosh patel,31,M,1.20,0.44,0.76,38,41,91.2,Negative
+183,Nimisha parikh,56,F,0.20,0.10,0.10,12,6,55,Negative
+184,Nita shrivastav,57,F,0.27,0.17,0.10,19,8,56,Negative
+185,Mahek shah,18,F,0.25,0.15,0.12,24,17,87.3,Negative
+186,Abhijeet nandedkar,47,M,0.73,0.31,0.42,28,28,114.2,Negative
+187,Manjulika bishnoi,73,F,0.26,0.15,0.11,27,14,100,Negative
+188,Sibi k s ,32,M,10.99,10.04,0.95,269,240,215.9,Hepatic 
+189,Roopesh P,29,M,20.46,18.08,2.38,81,86,243.7,Hepatic 
+190,Jitendra joshi,31,M,1.44,0.53,0.91,15,8,81.4,Pre - hepatic
+191,Prerak shah,33,M,1.85,0.49,1.36,55,88,70.8,Hepatic 
+192,Rashid mulli,18,F,0.65,0.30,0.35,16,11,93.3,Negative
+193,Sangita patel,58,F,0.81,0.30,0.51,19,15,100,Negative
+194,Manoj prajapati,32,M,0.45,0.20,0.25,66,141,104.8,Hepatic 
+195,Ananda nath,56,M,1.27,0.45,0.82,39,25,139.3,Post - hepatic 
+196,Shashank sharma,34,M,0.64,0.23,0.41,89,59,143.1,Hepatic 
+197,Alok das,71,M,0.69,0.30,0.39,33,26,86.9,Negative
+198,K ravishankar,69,M,0.66,0.37,0.29,24,20,75.1,Negative
+199,Nikhlesh pareek,33,M,2.42,0.78,1.64,59,65,56.7,Hepatic 
+200,Dr. manek utekkar,55,M,5.53,5.03,0.50,122,89,602.7,Hepatic 
+201,Azizulhasan qureshi,31,M,0.63,0.28,0.35,19,49,194.4,Post - hepatic 
+202,Dharmendra hirani,56,M,0.64,0.34,0.29,18,14,78,Negative
+204,Rajan bhatt,37,M,3.42,2.27,1.15,57,89,201,Hepatic 
+205,Anjan sinha,40,M,0.92,0.44,0.48,24,31,82,Negative
+206,Anjali patel,90,F,0.34,0.22,0.12,18,10,304,Post - hepatic 
+207,Suprava bhatt,80,F,0.26,0.11,0.15,18,11,109,Post - hepatic 
+208,Nirmala patel,63,F,0.40,0.19,0.21,89,48,110,Hepatic 
+209,Bhogilal R patel,66,M,1.15,0.90,0.25,24,15,214,Post - hepatic 
+210,Parag mehta,57,M,0.67,0.33,0.31,25,27,60,Negative
+211,Ravindra dixt,80,M,0.87,0.41,0.46,38,21,68,Negative
+212,Uddip patel,33,M,0.74,0.31,0.43,22,48,98,Negative
+213,Shobha mishra,29,F,0.32,0.16,0.16,78,103,264,Hepatic 
+214,Sneha mishra,54,F,0.65,0.45,0.28,47,45,69,Negative
+215,Nurunisha chauhan,67,F,0.46,0.24,0.22,18,24,158,Post - hepatic 
+216,Austin K M,20,M,0.85,0.51,0.34,127,355,171,Hepatic 
+217,Rahul khadilkar,45,M,1.45,1.32,0.13,22,28,99,negative
+218,Vivek anjane,44,M,1.33,0.53,0.80,15,15,74,negative
+219,Pankaj sharma,47,M,0.68,0.30,0.38,56,75,249,Hepatic 
+220,Kishor nayak,79,M,0.79,0.42,0.37,21,25,89,negative
+221,Jagruti mangukia,54,F,0.41,0.20,0.21,22,23,106,Post - hepatic 
+222,Tushi solanki,12,F,2.44,1.98,0.46,317,523,524,Hepatic 
+223,Dakshesh dave,25,M,0.88,0.34,0.34,218,470,89,Hepatic 
+224,D jack,11,M,0.60,0.47,0.13,52,56,148,Post - hepatic 
+225,Veena arora,60,F,0.40,0.16,0.24,19,26,89,Post - hepatic 
+226,Usha pandya,85,F,0.71,0.38,0.33,16,11,139,negative
+227,Sneha lokhandi,54,F,0.54,0.37,0.17,43,45,79,Hepatic 
+228,Ketan raje,58,M,1.09,0.50,0.59,14,18,82,Negative
+229,Rashmi wali,57,F,0.55,0.23,0.32,27,25,167,Post - hepatic 
+230,Ashutosh jark,32,M,0.41,0.65,1.00,37,30,94.3,Negative
+231,Kalu chawla,53,M,3.18,2.56,0.62,54,59,85,Hepatic 
+232,Abhishek kumar,35,M,0.71,0.27,0.44,50,56,143.0,Hepatic 
+233,Chandravati singh,65,F,0.85,0.40,0.45,18,15,313.7,Post - hepatic 
+234,Nikunj vaid,40,M,0.90,0.39,0.51,26,39,133.3,Post - hepatic 
+235,Jitesh gupta,64,M,0.25,0.14,0.11,12,11,132.2,Post - hepatic 
+236,Kartik thakre,47,M,0.60,0.30,22,34,85,89,Post - hepatic 
+237,Sumith S,36,M,1.16,0.49,0.57,39,36,85.9,Negative
+238,Jitendra bhama,38,M,1.80,1.37,0.43,251,250,89,Hepatic 
+239,Kuldeep sherpa,56,M,0.54,0.32,0.22,26,22,61.2,Negative
+240,Sartwant kaur,70,F,0.29,0.11,0.18,11,18,70,Post - hepatic 
+241,Abid ali momin,44,M,0.51,0.28,0.23,74,82,155.8,Hepatic 
+242,Husen tinwala,77,M,0.46,0.10,0.36,22,14,89,Negative
+243,Niranjana christian,75,F,0.60,0.35,0.25,42,31,89,Hepatic 
+244,Dhyan patel,22,M,3.58,3.40,0.18,237,1322,120,Hepatic 
+245,Neel vankar,17,M,0.99,0.16,0.15,12,89,77,Hepatic 
+246,Narensh solanki,25,M,0.41,0.24,0.40,46,45,85,Hepatic 
+247,Gopal rashik,82,M,0.34,0.39,0.23,89,90,68,Hepatic 
+248,Deepika kakkar,28,F,0.37,0.47,0.63,56,55,52,Hepatic 
+249,Vishnu kedia,63,M,0.39,0.12,0.74,45,41,86,Hepatic 
+250,Jay gupta,89,M,0.69,0.84,0.10,17,11,79,Negative
+251,Manshi giri,65,F,0.92,1.40,0.55,45,50,73,Hepatic 
+252,Akriti joy,23,F,0.43,0.73,0.08,20,18,90,Negative
+253,Sujal parmar,45,M,0.57,0.96,0.51,24,27,332,Post - hepatic 
+254,Khushi parmar,63,F,3.05,0.45,1.15,27,9,85,Pre - hepatic
+255,Jahanvi patel,72,F,1.03,89,0.89,29,20,127,Post - hepatic 
+256,Tanisha vega,64,F,1.37,0.20,0.12,36,48,85,Pre - hepatic
+257,Shahid more,92,M,0.29,0.20,0.31,14,38,87,negative
+258,Prapti Patel,28,F,1.13,0.17,0.18,27,12,98,Negative
+259,Kruti baria,30,F,2.47,0.18,0.37,25,21,85,Negative
+260,Kartik solanki,31,M,0.88,0.12,0.27,17,20,154,Post - hepatic 
+261,Urmi dhabhi,36,F,1.38,0.40,0.13,15,21,163,Post - hepatic 
+262,Ankit jaishwal,54,M,1.05,0.39,0.24,15,19,229,Post - hepatic 
+263,Divya salelkar,25,F,0.23,0.12,0.20,19,16,79,Negative
+264,Natasha umangi,23,F,2.58,0.28,0.42,36,25,57,Negative
+265,Selina chritian,26,F,0.29,0.35,0.29,29,26,123,Post - hepatic 
+266,Divyesh vaghela,27,M,0.65,0.12,46,13,38,136,Post - hepatic 
+267,Pravina parmar,29,F,0.43,0.24,0.21,15,13,80,Negative
+268,Karan rajput,63,M,0.22,0.20,0.60,12,33,162,Post - hepatic 
+269,Unnati gore,62,F,7.47,0.57,0.18,21,14,80,Pre - hepatic
+270,Jignesh patel,55,M,1.55,0.23,1.82,19,11,73,Pre - hepatic
+271,Harsh tanuj,52,M,0.60,0.16,0.29,24,23,198,Post - hepatic 
+272,Arpan gandhi,67,M,0.39,0.29,0.92,15,25,88,Negative
+273,Hemixa gandhi,48,F,1.20,0.17,0.35,17,41,80,Negative
+274,Anicka sehgal,50,F,0.20,0.17,0.28,16,11,77,Negative
+275,Aniket sherpa,52,M,0.27,0.40,0.43,20,26,56,Negative
+276,Harshit makwana,64,M,0.25,0.03,0.62,24,18,91,Negative
+278,Aryan makwana,25,M,0.73,23,0.22,27,27,61,Negative
+279,Aman khair,56,M,0.26,0.19,0.51,29,9,46,negative
+280,Nayera mukhrjee,95,F,0.55,12,0.71,36,20,142,Post - hepatic 
+281,Ketan kalgude S,78,M,0.65,0.41,0.25,14,48,66,negative
+282,Sikha Siweat,72,F,0.48,0.09,0.93,27,57,95,Pre - hepatic
+283,Lakshay shrivas,89,M,0.42,0.91,1.20,25,12,66,Pre - hepatic
+284,Ameha gorkha,65,F,0.33,0.60,0.45,17,21,69,Negative
+285,Megha soneri,60,F,0.91,0.25,0.31,15,20,113,Negative
+286,Archana chavan,45,F,1.29,2.27,0.24,15,21,98,Negative
+287,Ashutosh D,53,M,0.27,0.21,0.21,19,19,100,Negative
+288,Digvijaysingh ,57,M,0.43,0.22,0.51,56,16,81,Negative
+289,Het bhatt,59,M,0.46,0.40,0.90,29,25,48,Negative
+290,Charmi waghasiya,62,F,0.24,0.40,0.15,13,56,109,Post - hepatic 
+291,Umesh murliyer,100,M,0.48,0.44,0.15,19,38,113,Post - hepatic 
+292,Vrutika murmer,74,F,0.39,0.10,0.11,15,8,230,Post - hepatic 
+293,Mayank sukla,40,M,1.67,0.17,0.12,14,33,70,Negative
+294,Yuvraj manek,38,M,0.42,0.14,0.24,35,17,82,negative
+295,Jitendra kumar,35,M,0.23,0.19,0.19,13,19,53,Negative
+296,Nikita solanki,48,F,0.63,0.13,1.10,25,14,99,Negative
+297,Ved maharshi,89,M,0.39,21,0.19,30,34,74,Negative
+298,Shinn vyash,56,F,0.60,0.31,0.07,35,8,249,Post - hepatic 
+299,Tanuj ranek,73,M,0.87,0.21,0.34,70,89,89,Hepatic 
+300,Ayushman naik,65,M,7.60,24,0.22,18,32,106,Post - hepatic 
+301,Vedant makwana,78,M,0.29,0.18,0.43,21,72,524,Post - hepatic 
+302,Jashwant corrg,23,M,0.55,0.25,0.47,15,16,173,Post - hepatic 
